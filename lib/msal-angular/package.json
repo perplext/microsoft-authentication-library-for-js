@@ -38,7 +38,7 @@
     "disallowedChangeTypes": []
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^15.1.5",
+    "@angular-devkit/build-angular": "^21.2.4",
     "@angular/animations": "^15.1.4",
     "@angular/cli": "^15.1.5",
     "@angular/common": "^15.1.4",
@@ -60,7 +60,7 @@
     "karma-coverage-istanbul-reporter": "~3.0.2",
     "karma-jasmine": "~5.0.0",
     "karma-jasmine-html-reporter": "^2.0.0",
-    "ng-packagr": "^15.1.2",
+    "ng-packagr": "^21.2.1",
     "prettier": "2.8.7",
     "rxjs": "^7.0.0",
     "ts-node": "~8.3.0",
